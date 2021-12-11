@@ -1,5 +1,6 @@
 body {
   background-image: url("pattern-background-desktop.svg");
+  background-size: contain;
   margin: 0;
   padding: 0;
   background-repeat: no-repeat;
